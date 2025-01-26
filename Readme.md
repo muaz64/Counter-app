@@ -14,7 +14,7 @@ A simple counter application built using **HTML**, **CSS**, and **JavaScript**. 
 
 ## Demo
 
-![Counter App](./Screenshot_10-12-2024_22362_127.0.0.1.jpeg)
+![Counter App](./Counter%20App.jpeg)
 
 ---
 

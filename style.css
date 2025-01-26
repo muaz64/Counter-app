@@ -11,15 +11,13 @@ h1 {
     padding: 20px 0;
 }
 
-    
-
-
 .container {
     background-color: #7bbaca;
     max-width: 1000px; /* Adjusted max-width for responsiveness */
     margin: 0 auto;
     text-align: center;
     padding: 20px;
+    border-radius: 5px;
 }
 
 #counter {
@@ -31,6 +29,7 @@ h1 {
     font-size: 2rem;
     padding: 10px 20px;
     margin: 10px;
+    border-radius: 5px;
 }
 
 .btn:disabled {
